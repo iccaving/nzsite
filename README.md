@@ -1,3 +1,5 @@
+This is now deprecated. The NZ subsite has been subsumed into the main site repo.
+
 Instructions are based on a linux set up but the semantic procedure (if not commands) should be the same.
 
 #Basic set up
